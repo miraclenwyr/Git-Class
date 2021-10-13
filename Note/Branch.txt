@@ -1,0 +1,18 @@
+                                 Git Branch Lesson
+
+Git branch - Branch dwe ko check dr
+
+Git branch "name" - Branch new ta ku lote dr
+
+Git checkout "lote chin tae branch name ko yay" - Branch ko switch dr 
+
+Git branch -D "name" - Branch ko delete dr 
+
+Git checkout -b "new name" - Git Branch "name" + Git checkout 
+
+
+How to use Git checkout                   
+- git add .
+- git commit -m 
+- git checkout
+- git push origin "upload name"
